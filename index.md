@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Chat Math
 
-Check out our [privacy policy](https://github.com/r-00-c/chat-math/privacy-policy)
-
-You can use the [editor on GitHub](https://github.com/r-00-c/chat-math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Check out our [privacy policy](https://r-00-c.github.io/chat-math/privacy-policy/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
