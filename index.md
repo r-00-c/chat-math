@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Check out our [privacy policy](https://github.com/r-00-c/chat-math/blog)
+Check out our [privacy policy](https://github.com/r-00-c/chat-math/privacy-policy)
 
 You can use the [editor on GitHub](https://github.com/r-00-c/chat-math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
